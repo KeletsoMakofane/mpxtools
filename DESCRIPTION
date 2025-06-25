@@ -13,3 +13,4 @@ Imports:
     tidygraph
 URL: https://github.com/KeletsoMakofane/mpxnyctools
 BugReports: https://github.com/KeletsoMakofane/mpxnyctools/issues
+RoxygenNote: 7.3.2

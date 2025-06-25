@@ -1,3 +1,9 @@
+#' Data SSNAC example
+#'
+#' @return A tidygraph (tbl_graph) object
+#' @export
+#'
+#' @examples
 data_ssnac_example <- function(){
   snacc_nodes <- data.frame(
     name = paste("node", 1:14, sep = "_"),
