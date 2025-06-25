@@ -11,3 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     tidygraph
+URL: https://github.com/KeletsoMakofane/mpxnyctools
+BugReports: https://github.com/KeletsoMakofane/mpxnyctools/issues
